@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//you can edit here
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
