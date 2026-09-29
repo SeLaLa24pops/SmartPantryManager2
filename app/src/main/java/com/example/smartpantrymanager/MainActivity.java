@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+// this is the entry point of the application
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
