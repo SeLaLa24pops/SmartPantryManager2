@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+// binds the lists of pantry items to the recycler view
 public class PantryItem {
     private int id;
     private String name;
