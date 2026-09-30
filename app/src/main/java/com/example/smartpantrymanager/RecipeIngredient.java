@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//blueprint class like data model hold information
 public class RecipeIngredient {
     private String name;
     private double requiredQuantity;
