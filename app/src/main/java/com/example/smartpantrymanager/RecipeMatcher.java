@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+// strict matching rule compares recipes
 import java.util.ArrayList;
 import java.util.List;
 
