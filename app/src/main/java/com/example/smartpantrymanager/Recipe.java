@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+// models class of recipes
 import java.util.List;
 
 public class Recipe {

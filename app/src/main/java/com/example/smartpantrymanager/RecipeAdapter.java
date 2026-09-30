@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//binds lists of suggested recipes objects ro recycle view
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
