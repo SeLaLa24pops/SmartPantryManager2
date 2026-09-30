@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+// updates pantry 
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
