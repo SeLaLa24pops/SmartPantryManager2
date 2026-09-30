@@ -1,5 +1,5 @@
 package com.example.smartpantrymanager;
-
+//runs the strict matching algorithm
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
